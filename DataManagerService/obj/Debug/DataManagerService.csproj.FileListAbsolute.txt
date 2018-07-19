@@ -1,0 +1,7 @@
+D:\DevSource\DataManagement\DataManagerService\bin\Debug\DataManagerService.exe.config
+D:\DevSource\DataManagement\DataManagerService\bin\Debug\DataManagerService.exe
+D:\DevSource\DataManagement\DataManagerService\bin\Debug\DataManagerService.pdb
+D:\DevSource\DataManagement\DataManagerService\obj\Debug\DataManagerService.csprojResolveAssemblyReference.cache
+D:\DevSource\DataManagement\DataManagerService\obj\Debug\DataManagerService.exe
+D:\DevSource\DataManagement\DataManagerService\obj\Debug\DataManagerService.pdb
+D:\DevSource\DataManagement\DataManagerService\obj\Debug\DataManagerService.csproj.CoreCompileInputs.cache
