@@ -1,6 +1,5 @@
 D:\DevSource\DataManagement\DataManager\bin\Debug\DataManager.dll
 D:\DevSource\DataManagement\DataManager\bin\Debug\DataManager.pdb
-D:\DevSource\DataManagement\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
 D:\DevSource\DataManagement\DataManager\obj\Debug\DataManager.dll
 D:\DevSource\DataManagement\DataManager\obj\Debug\DataManager.pdb
 D:\DevSource\DataManagement\DataManager\bin\Debug\DataManager.dll.config
@@ -19,3 +18,4 @@ D:\DevSource\DataManagement\DataManager\bin\Debug\Newtonsoft.Json.xml
 D:\DevSource\DataManagement\DataManager\bin\Debug\DataManager.HouseKeeping.dll.config
 D:\DevSource\DataManagement\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
 D:\DevSource\DataManagement\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+D:\DevSource\DataManagement\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache

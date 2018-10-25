@@ -14,12 +14,23 @@ namespace DataManagerService
         /// </summary>
         static void Main()
         {
+
+#if (!DEBUG)
+
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[] 
             { 
-                new Service1() 
+                new DataManagerService() 
             };
-            ServiceBase.Run(ServicesToRun);
+            ServiceBase.Run(ServicesToRun); 
+
+#else
+            DataManagerService service = new DataManagerService();
+            service.startAgent();
+
+            System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
+#endif
+
         }
     }
 }

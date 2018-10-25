@@ -1,7 +1,6 @@
 D:\DevSource\DataManagement\DataManagerApp\bin\Debug\DataManagerApp.exe.config
 D:\DevSource\DataManagement\DataManagerApp\bin\Debug\DataManagerApp.exe
 D:\DevSource\DataManagement\DataManagerApp\bin\Debug\DataManagerApp.pdb
-D:\DevSource\DataManagement\DataManagerApp\obj\Debug\DataManagerApp.csprojResolveAssemblyReference.cache
 D:\DevSource\DataManagement\DataManagerApp\obj\Debug\DataManagerApp.exe
 D:\DevSource\DataManagement\DataManagerApp\obj\Debug\DataManagerApp.pdb
 D:\DevSource\DataManagement\DataManagerApp\bin\Debug\DataManager.dll
@@ -20,3 +19,4 @@ D:\DevSource\DataManagement\DataManagerApp\bin\Debug\DataManager.HouseKeeping.dl
 D:\DevSource\DataManagement\DataManagerApp\bin\Debug\Ionic.Zip.dll
 D:\DevSource\DataManagement\DataManagerApp\bin\Debug\DataManager.HouseKeeping.pdb
 D:\DevSource\DataManagement\DataManagerApp\bin\Debug\DataManager.HouseKeeping.dll.config
+D:\DevSource\DataManagement\DataManagerApp\obj\Debug\DataManagerApp.csprojAssemblyReference.cache

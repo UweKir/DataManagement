@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManagerService", "DataManagerService\DataManagerService.csproj", "{6AD3F9CE-3632-444E-A308-D3481CD4A24B}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging", "..\Lib\Logging\Logging.csproj", "{3CD22743-9EED-45E2-941C-6528AA66C0DF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security", "..\Lib\Security\Security.csproj", "{C2E4FF1C-E695-434C-B626-72FAEF5AC10C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KTB_DataManagerServiceSetup", "KTB_DataManagerServiceSetup\KTB_DataManagerServiceSetup.vdproj", "{D89212CE-4FAF-4698-A3F7-66368D6F92C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,8 +53,13 @@ Global
 		{C2E4FF1C-E695-434C-B626-72FAEF5AC10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2E4FF1C-E695-434C-B626-72FAEF5AC10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2E4FF1C-E695-434C-B626-72FAEF5AC10C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89212CE-4FAF-4698-A3F7-66368D6F92C3}.Debug|Any CPU.ActiveCfg = Debug
+		{D89212CE-4FAF-4698-A3F7-66368D6F92C3}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12F07C73-AC13-46A0-8B82-A67640AC42F7}
 	EndGlobalSection
 EndGlobal
